@@ -1,4 +1,4 @@
-## Hi there! I'm Aina 👋
+## Hi there! I'm Aina 👋 
 
 ![ Girl Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1b3NwZndtOTFxMG5ndG9sbGJ6Z2ZiamR6Zzk2azI0MnludWNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTGVpr7ejMfP0c/giphy.gif)
 
@@ -34,7 +34,7 @@ I’m currently pursuing my Master’s degree in Data Science at **Universiti Te
 - Data Science for social good
 - Financial analytics
 
-📊 **GitHub Stats**
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AinaGithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
 </p>
