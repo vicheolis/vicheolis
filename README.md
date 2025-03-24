@@ -1,6 +1,6 @@
 ## Hi there! I'm Aina 👋
 
-![Anime Girl Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1b3NwZndtOTFxMG5ndG9sbGJ6Z2ZiamR6Zzk2azI0MnludWNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTGVpr7ejMfP0c/giphy.gif)
+![ Girl Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1b3NwZndtOTFxMG5ndG9sbGJ6Z2ZiamR6Zzk2azI0MnludWNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTGVpr7ejMfP0c/giphy.gif)
 
 **Master's Student in Data Science | Aspiring Data Scientist**
 
