@@ -44,8 +44,6 @@ I’m currently pursuing my Master’s degree in Data Science at **Universiti Te
    <a href="mailto:ainafarraainn@gmail.com" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /> 
    </a>
-</div>
-   </a>
    <a href="https://www.linkedin.com/in/nur-aina-farraain-zahanizam-0ab686223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
    </a>
