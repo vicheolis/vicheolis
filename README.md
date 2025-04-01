@@ -1,54 +1,51 @@
-## Hi there! I'm Aina 👋 
-
-![ Girl Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1b3NwZndtOTFxMG5ndG9sbGJ6Z2ZiamR6Zzk2azI0MnludWNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTGVpr7ejMfP0c/giphy.gif)
-
-**Master's Student in Data Science | Aspiring Data Scientist**
-
-I’m currently pursuing my Master’s degree in Data Science at **Universiti Teknologi Malaysia (UTM)**, set to graduate in 2026. With a passion for leveraging data to solve real-world problems, I am exploring the field of Data Science with a focus on data analysis, statistics, and machine learning.
-
-### 🌱 What I’m currently working on:
-- Building a solid foundation in **Python** and **SQL** for data analysis and machine learning tasks.
-- Enhancing my understanding of **statistical analysis**, **data visualization**, and **data cleaning techniques**.
-
-### 💻 Skills I'm developing:
-- **Data Analysis**: Utilizing **pandas** and **NumPy** to perform exploratory data analysis.
-- **Data Visualization**: Creating impactful visualizations using **Matplotlib**, **Seaborn**, and **ggplot2**.
-- **Machine Learning**: Learning the basics of **scikit-learn**.
-- **Database Management**: Working with **SQL** for querying relational databases and managing large datasets.
-
-### 🔧 Tools I Use:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Looker Studio" />
-</p>
-
-### 🚀 Future Goals:
-- Improve my proficiency in **Python**.
-- Work on more hands-on data science projects.
-- Collaborate on open-source data science projects to strengthen my skills and contribute to the community.
-  
-### 🔍 Interested in:
-- Data Science for social good
-- Financial analytics
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AinaGithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <h1>Hi, I'm Aina! 👩‍💻✨</h1>
 </p>
 
-### 🌐 Connect with me:
+🚀 Data Science Master's Student | 📊 Applied Mathematics Graduate | 📚 Lifelong Learner
+
+---
+
+## 🌟 About Me
+
+- 🔍 Passionate about **Data Science, Machine Learning, and Analytics**.
+- 📖 Studying **Master’s in Data Science at UTM**.
+- 🎓 Graduated with a **Bachelor’s in Applied Mathematics** from UMT.
+- 🏆 Experienced **freelance tutor** for Mathematics, Additional Mathematics & English.
+- 💡 Always exploring new technologies & solving real-world problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Tools:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vicheolis&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+## 📫 Connect with Me
 <div align="left">
    <a href="mailto:ainafarraainn@gmail.com" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /> 
    </a>
-   <a href="https://www.linkedin.com/in/nur-aina-farraain-zahanizam-0ab686223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+   <a href="https://www.linkedin.com/in/nur-aina-farraain-zahanizam-0ab686223/" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
    </a>
  </div>
- 
-<!--
-**vicheolis/vicheolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+---
+
+🌱 *“Learning never exhausts the mind.” – Leonardo da Vinci*
 
