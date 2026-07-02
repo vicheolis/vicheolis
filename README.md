@@ -1,83 +1,102 @@
-<p align="center">
-  <h1>Hi, I'm Aina! 👩‍💻✨</h1>
-</p>
+<div align="center">
 
-<p align="center">
-🚀 Data Science Master's Student | 📊 Applied Mathematics Graduate | 💳 Interested in FinTech & Risk Analytics
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Aina%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Master's%20Student%20%7C%20FinTech%20%26%20Risk%20Analytics&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Building+ML+systems+for+risk+%26+finance;Data+Science+%2B+MLOps+%2B+FinTech;Currently+researching+sentiment+analysis+(NLP)" alt="Typing SVG" />
+
+</div>
+
+<br>
 
 ## 🌟 About Me
-- 🔍 Passionate about **Data Science, Machine Learning, and Analytics** — with a growing focus on **FinTech and risk modeling**.
-- 📖 Currently pursuing a **Master's in Data Science at UTM**, working on a thesis in sentiment analysis (NLP).
-- 🎓 Graduated with a **Bachelor's in Applied Mathematics** from UMT.
-- 🏦 Recently built a **risk-based loan approval ML system** for digital banks — check it out below!
-- 🏆 Experienced **freelance tutor** for Mathematics, Additional Mathematics & English.
-- 💡 Always exploring new tools & solving real-world data problems.
 
----
+```yaml
+role: Data Science Master's Student @ UTM
+background: B.Sc. Applied Mathematics @ UMT
+focus: FinTech · Risk Modeling · Machine Learning
+current: Thesis on sentiment analysis (NLP) · Freelance Math/English tutor
+mindset: "Learning never exhausts the mind." — Leonardo da Vinci
+```
+
+- 🏦 Recently shipped a **risk-based loan approval ML system**, complete with an MLOps pipeline (MLflow, CI/CD, Docker) — [check it out below](#-featured-project)
+- 🔭 Exploring the intersection of **machine learning and financial risk**
+- ⚡ Always down to pick up a new tool — most recently: SQL, MongoDB, Neo4j, Power BI, AWS
+
+<br>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages & Querying**
+<br>
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white" height="28"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-**Data & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Data & Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
 
 **Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,neo4j&theme=dark" height="45"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+**MLOps & Deployment**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28"/>
 
-**BI & Cloud**
+**BI & Visualization**
+<br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/>
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="45"/>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+</div>
 
-**Deployment**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
+<br>
 
 ## 📌 Featured Project
 
+<div align="center">
+
 ### 💳 [Loan Default Risk Predictor](https://github.com/vicheolis/loan-default-risk-app)
-Risk-based loan approval framework for Malaysian digital banks — Logistic Regression + SMOTE, with three configurable lending strategies compared on business cost. Deployed live with Streamlit.
 
-**🔗 [Live demo](https://loan-default-risk-app-uzi2u6tsu244akfc94thny.streamlit.app)**
+Risk-based loan approval framework for Malaysian digital banks — Logistic Regression + SMOTE, three configurable lending strategies, and a full MLOps pipeline (MLflow tracking, GitHub Actions CI/CD with a quality gate, Docker image published to GHCR).
 
----
+**[🔗 Live Demo](https://loan-default-risk-app-uzi2u6tsu244akfc94thny.streamlit.app)** &nbsp;·&nbsp; **[📦 View Repo](https://github.com/vicheolis/loan-default-risk-app)**
+
+`Python` `scikit-learn` `MLflow` `GitHub Actions` `Docker` `Streamlit`
+
+</div>
+
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicheolis&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vicheolis&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vicheolis&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+</div>
 
----
+<br>
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
-<div align="left">
-   <a href="mailto:ainafarraainn@gmail.com" target="_blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /> 
-   </a>
-   <a href="https://www.linkedin.com/in/nur-aina-farraain-zahanizam-0ab686223/" target="_blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-   </a>
- </div>
+<div align="center">
 
----
+<a href="mailto:ainafarraainn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/nur-aina-farraain-zahanizam-0ab686223/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🌱 *"Learning never exhausts the mind." – Leonardo da Vinci*
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
